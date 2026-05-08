@@ -1,0 +1,23 @@
+{
+  "app_name": "SentinelX Core",
+  "version": "1.0.0",
+  "backend_host": "127.0.0.1",
+  "backend_port": 8765,
+  "ws_port": 8766,
+  "log_level": "INFO",
+  "ai_enabled": true,
+  "anomaly_threshold": 0.65,
+  "vpn_enabled": true,
+  "active_filter_lists": [
+    "easylist",
+    "hagezi",
+    "easyprivacy",
+    "adguard"
+  ],
+  "ignored_alerts": [],
+  "custom_block_domains": [],
+  "custom_allow_domains": [],
+  "background_mode": false,
+  "overlay_hotkey": "ctrl+shift+s",
+  "theme": "dark"
+}

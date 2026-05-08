@@ -1,0 +1,1 @@
+{"alert_id": "02FF739D", "severity": "high", "category": "file", "title": "File Threat: Microsoft.WebView2.FixedVersionRuntime.147.0.3912.72.x64.cab", "detail": "Reasons: High entropy (7.53) \u2014 possible packing/encryption. Entropy: 7.53", "timestamp": 1776677097.1016247}
