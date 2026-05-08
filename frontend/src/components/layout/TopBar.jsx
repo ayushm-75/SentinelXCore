@@ -1,4 +1,3 @@
-﻿// components\layout\TopBar.jsx — full implementation in Phase 6
 // frontend/src/components/layout/TopBar.jsx
 import { useAppStore } from '../../store/appStore'
 import { useSystemStats } from '../../hooks/useSystemStats'
